@@ -5,3 +5,4 @@
 - Favorite food: Pizza
 - Hobby: Reading
 - Favorite color: Orange
+- Favorite animal: Dog
